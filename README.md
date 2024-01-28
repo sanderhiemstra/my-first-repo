@@ -1,4 +1,4 @@
 # my-first-repo
 Minor Datavisualisatie
-* insert foto
+![my github profile picture](img/avataaars.png)
 * [Link naar Zuyd](https://www.zuyd.nl)
